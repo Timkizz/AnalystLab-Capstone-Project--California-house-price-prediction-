@@ -179,4 +179,3 @@ The app will open at `http://localhost:8501`.
 
 Michael — ML intern at Analyst Lab Africa.
 
-# AnalystLab-Capstone-Project--California-house-price-prediction ad0d5f73e2ec46366c028981c81d3c1a7c1b6bf2

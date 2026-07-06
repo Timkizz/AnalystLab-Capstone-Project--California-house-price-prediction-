@@ -1,3 +1,4 @@
+HEAD
 # AnalystLabAfrica Capstone Project — California Housing Price Prediction
 
 ## Overview
@@ -177,3 +178,5 @@ The app will open at `http://localhost:8501`.
 ## Author
 
 Michael — ML intern at Analyst Lab Africa.
+
+# AnalystLab-Capstone-Project--California-house-price-prediction ad0d5f73e2ec46366c028981c81d3c1a7c1b6bf2
